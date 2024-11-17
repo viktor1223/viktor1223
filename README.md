@@ -1,26 +1,18 @@
-
-
 ## Hi there 👋
 
-I’m Viktor, an **LLM & CV researcher** who took an unconventional path by **dropping out of a PhD** to pursue a research career in the industry. I began my AI journey in **2017**, researching **perception models** for **self-driving vehicles** before transitioning to focus on **bias reduction** in **pre-trained models**. Over the years, I’ve worked on **ADAS (Advanced Driver Assistance Systems)** and **LLMs (Large Language Models)**, aiming to make meaningful impacts in AI across different domains.
+I’m Viktor, an **AI researcher** working on a project that uses **Large Language Models (LLMs)** to help **educators identify knowledge gaps** in student coursework. The goal of this work is to **reduce skill erosion** in the **intelligence age** by empowering teachers to provide **personalized education** that adapts to the unique needs of each student.
 
-💻 **Current Venture:**  
-I’m currently researching how we can leverage **LLMs** to identify **knowledge gaps** in **student coursework**. The goal is to help **teachers develop more individualized education** and address **skill erosion** in the **AI age** by enhancing the learning process.
+🌱 **Current Project:**  
+My project focuses on harnessing **LLMs** to provide **actionable insights** for educators, helping them detect where students might be struggling and offering ways to tailor their instruction. By addressing these **knowledge gaps**, we can support students in keeping pace with the rapid changes in technology and ensure they’re equipped for the future.
 
 🔬 **Past Work:**  
-- **Perception models for self-driving vehicles** 
-- Focused on **bias reduction** in **pre-trained models**, working on **ADAS** and **LLMs**.
-- Developed tools and research aimed at improving AI fairness and performance in real-world applications.
-
-🌱 **Learning & Growing:**  
-I’m always striving to push the boundaries of **AI research** and **education technology**, specifically in how **AI can help individuals learn** and grow, while ensuring that **bias reduction** is a key consideration in all models.
+Before diving into this venture, I worked on **perception models** for **self-driving vehicles**, and I’ve also been involved in **bias reduction** within **pre-trained models** and **ADAS**. Now, I’m focusing entirely on **educational technology** and how AI can improve **learning outcomes**.
 
 🤝 **Let’s Collaborate:**  
-I’m always interested in collaborating with others who are passionate about using AI to drive **positive societal impact**, whether it’s in **education**, **automated systems**, or **machine learning fairness**.
+If you’re interested in **AI-powered education** or have ideas for how to make **learning more personalized**, I’d love to connect. I’m always open to discussing how we can work together to make a meaningful impact on **education in the AI age**.
 
 📫 **How to reach me:**  
-Feel free to reach out through GitHub issues, or drop me a message if you'd like to discuss AI, LLMs, or education technology.
+Feel free to reach out through GitHub or drop me a message to discuss anything related to **AI** and **education technology**.
 
 ⚡ **Fun Fact:**  
 I believe that **maximizing learning and growth** is the key to **maximizing both impact and happiness**.
-
