@@ -1,18 +1,23 @@
-## Hi there 👋
+Hi there 👋
 
-I’m Viktor, an **AI researcher** working on a project that uses **Large Language Models (LLMs)** to help **educators identify knowledge gaps** in student coursework. The goal of this work is to **reduce skill erosion** in the **intelligence age** by empowering teachers to provide **personalized education** that adapts to the unique needs of each student.
+I am Viktor. I am a researcher who thinks a lot about how we, as humans, make sense of the world and how emerging AI systems can either support or disrupt that process. Right now, I am studying how misinformation can be amplified by AI and how it affects our ability to agree on what is real and true. My goal is to help build technology that strengthens trust and understanding rather than undermining it.
 
-🌱 **Current Project:**  
-My project focuses on harnessing **LLMs** to provide **actionable insights** for educators, helping them detect where students might be struggling and offering ways to tailor their instruction. By addressing these **knowledge gaps**, we can support students in keeping pace with the rapid changes in technology and ensure they’re equipped for the future.
+What I am working on
 
-🔬 **Past Work:**  
-Before diving into this venture, I worked on **perception models** for **self-driving vehicles**, and I’ve also been involved in **bias reduction** within **pre-trained models** and **ADAS**. Now, I’m focusing entirely on **educational technology** and how AI can improve **learning outcomes**.
+My current research looks at how language models can be manipulated for targeted disinformation campaigns and what kinds of safeguards are needed to protect public discourse. I am especially interested in the idea of epistemic security, which focuses on ensuring that people are able to think clearly and confidently in a world where information is increasingly machine-generated.
 
-🤝 **Let’s Collaborate:**  
-If you’re interested in **AI-powered education** or have ideas for how to make **learning more personalized**, I’d love to connect. I’m always open to discussing how we can work together to make a meaningful impact on **education in the AI age**.
+Where I come from
 
-📫 **How to reach me:**  
-Feel free to reach out through GitHub or drop me a message to discuss anything related to **AI** and **education technology**.
+Before focusing on this space, I worked on a wide range of AI challenges:
 
-⚡ **Fun Fact:**  
-I believe that **maximizing learning and growth** is the key to **maximizing both impact and happiness**.
+Improving perception systems for self-driving cars
+
+Reducing racial bias in facial detection models
+
+Building responsible AI tools for lawyers and real-world decision makers
+
+Those experiences taught me that artificial intelligence affects more than code and data. It affects people. That means responsibility and care need to be built into the technology from the start.
+
+What motivates me
+
+I believe technology can expand what humans are capable of, but only if we preserve the human perspective at the center. AI is becoming part of our shared understanding of the world. We need to make sure that understanding remains honest, fair, and resilient.
